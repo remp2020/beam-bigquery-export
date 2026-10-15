@@ -27,8 +27,6 @@ Exported indices and their BigQuery tables (same name, schema in `bq/`):
 ## Installation
 
 ```bash
-git clone https://github.com/remp2020/beam-bigquery-export.git
-cd beam-bigquery-export
 npm install
 cp .env.example .env    # then fill it in
 ```
