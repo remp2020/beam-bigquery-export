@@ -1,0 +1,10 @@
+{
+  "name": "beam-bigquery-export",
+  "version": "1.0.0",
+  "description": "Daily export of REMP Beam data from Elasticsearch to BigQuery",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "elasticdump": "^6.94.0"
+  }
+}

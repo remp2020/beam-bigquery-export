@@ -1,0 +1,16 @@
+[
+  {"name": "action", "type": "STRING"},
+  {"name": "article_id", "type": "STRING"},
+  {"name": "browser_id", "type": "STRING"},
+  {"name": "category", "type": "STRING"},
+  {"name": "locked", "type": "BOOLEAN"},
+  {"name": "remp_pageview_id", "type": "STRING"},
+  {"name": "remp_session_id", "type": "STRING"},
+  {"name": "signed_in", "type": "BOOLEAN"},
+  {"name": "subscriber", "type": "BOOLEAN"},
+  {"name": "time", "type": "TIMESTAMP", "mode": "REQUIRED"},
+  {"name": "timespent", "type": "INT64"},
+  {"name": "token", "type": "STRING"},
+  {"name": "url", "type": "STRING"},
+  {"name": "user_id", "type": "STRING"}
+]
